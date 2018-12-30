@@ -2,7 +2,7 @@
 
 This is my first data science project from Kaggle(<a href="https://www.kaggle.com/sciplic/my-first-experience-with-datascience">to the project</a>). It is based on a flight delay prediction. The data comes from Kaggle where the U.S. Department of Transportation uploaded and explained the files.
 
-You can find my Kaggle profile <a href="https://www.kaggle.com/sciplic">here (click!)</a>
+You can find my Kaggle profile <a href="https://www.kaggle.com/sciplic">here (click!)</a> as well.
 <br>
 
 ## Context (from Kaggle)
